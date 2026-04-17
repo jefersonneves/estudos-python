@@ -1,0 +1,10 @@
+# Ignorar arquivos gerados
+data/output/*
+
+# Ignorar ambiente virtual
+venv/
+.env/
+
+# Cache do Python
+__pycache__/
+*.pyc

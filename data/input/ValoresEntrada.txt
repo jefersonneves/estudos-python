@@ -1,0 +1,6 @@
+Entrada 1: 1, 12, 24, abc, , 82
+Ent. 2: 14, 72, 10, abc, , 53 
+Dados 3: 10, 22, 34, abc, , 21.
+Entradas 4: 17, 32, 79, abc, , 90 , 3
+Entrada 5: 10, 26, 30, abc, , 40,   ,re, ,
+Dados 40: 14, 22, 69, abc, , 30 , 3
